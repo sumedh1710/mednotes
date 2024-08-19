@@ -1,4 +1,6 @@
 # mednotes
+![medapp](https://github.com/user-attachments/assets/080d4bbf-1972-41ed-b9c7-3e50d94651f8)
+
 Patient Notes Summarization with T5 and Streamlit
 
 This project focuses on developing an AI-powered tool to generate concise summaries of patient notes using a fine-tuned T5 (Text-To-Text Transfer Transformer) model. The primary goal is to assist healthcare providers by quickly summarizing long patient histories into key points, enabling more efficient review and decision-making.
